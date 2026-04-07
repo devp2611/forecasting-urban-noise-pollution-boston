@@ -64,6 +64,27 @@ Due to file size limitations, the merged output dataset used in the modeling sta
 
 ---
 
+## Repository Structure
+
+```text
+forecasting-urban-noise-pollution-boston/
+│
+├── notebook/
+│   └── project.ipynb
+│
+├── report/
+│   └── project_report.pdf
+│
+├── results/
+│   ├── daily_noise_trend_with_rolling_average.png
+│   ├── weekday_vs_weekend_noise_analysis.png
+│   └── time_series_model_forecast_vs_actual.png
+│
+├── requirements.txt
+└── README.md
+
+```
+
 ## Data Preprocessing
 
 - Converted timestamps into proper datetime format  
@@ -114,27 +135,6 @@ The model successfully captures:
 - Long-term trends  
 - Short-term fluctuations  
  
-
-## Repository Structure
-
-```text
-forecasting-urban-noise-pollution-boston/
-│
-├── notebook/
-│   └── project.ipynb
-│
-├── report/
-│   └── project_report.pdf
-│
-├── results/
-│   ├── daily_noise_trend_with_rolling_average.png
-│   ├── weekday_vs_weekend_noise_analysis.png
-│   └── time_series_model_forecast_vs_actual.png
-│
-├── requirements.txt
-└── README.md
-
-```
 ---
 
 ## Project Visuals
