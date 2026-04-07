@@ -121,15 +121,15 @@ The model successfully captures:
 forecasting-urban-noise-pollution-boston/
 │
 ├── notebook/
-│   └── PROEJCT_2_DME.ipynb
+│   └── project.ipynb
 │
 ├── report/
-│   └── Project2_Hitaxi_Dev.pdf
+│   └── project_report.pdf
 │
 ├── results/
-│   ├── daily_trend_analysis.png
-│   ├── weekday_weekend_pattern.png
-│   └── model_forecast_comparison.png
+│   ├── daily_noise_trend_with_rolling_average.png
+│   ├── weekday_vs_weekend_noise_analysis.png
+│   └── time_series_model_forecast_vs_actual.png
 │
 ├── requirements.txt
 └── README.md
