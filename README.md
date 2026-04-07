@@ -46,7 +46,7 @@ The project combines:
 ---
 
 
-## Dataset Note
+## 📊 Dataset Note
 
 The project uses Boston 311 noise complaint data collected over multiple years.
 
@@ -93,7 +93,7 @@ forecasting-urban-noise-pollution-boston/
 
 ---
 
-## Data Preprocessing
+## 🧹 Data Preprocessing
 
 - Converted timestamps into proper datetime format  
 - Removed missing or invalid records  
