@@ -10,13 +10,13 @@
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 Urban noise pollution is a major quality-of-life issue in large cities. In this project, Boston 311 noise complaint data was studied to understand how complaints vary across time, weekdays, seasons, and neighborhoods. After cleaning and transforming the data, time series modeling was performed to forecast future complaint patterns.
 
 ---
 
-## Key Highlights
+## 🚀 Key Highlights
 
 - End-to-end time series analysis using real-world Boston 311 data  
 - Identified strong seasonal and weekly noise patterns  
@@ -35,7 +35,7 @@ The project combines:
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Build a clean and structured dataset of Boston noise complaints
 - Identify hourly, daily, weekly, and seasonal noise patterns
@@ -57,7 +57,7 @@ Due to file size limitations, the merged output dataset used in the modeling sta
 
 ---
 
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
 - Python
 - Jupyter Notebook
@@ -70,7 +70,7 @@ Due to file size limitations, the merged output dataset used in the modeling sta
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 forecasting-urban-noise-pollution-boston/
@@ -109,7 +109,7 @@ forecasting-urban-noise-pollution-boston/
 
 ---
 
-## Exploratory Data Analysis
+## 🔍 Exploratory Data Analysis
 
 The analysis reveals strong patterns in urban noise behavior:
 
@@ -121,7 +121,7 @@ The analysis reveals strong patterns in urban noise behavior:
 
 ---
 
-## Time Series Modeling
+## 📉 Time Series Modeling
 
 - Chronological train-test split (last 90 days as test set)  
 - Model used: **SARIMA (Seasonal ARIMA)**  
@@ -130,7 +130,7 @@ The analysis reveals strong patterns in urban noise behavior:
 
 ---
 
-## Model Evaluation
+## 📏 Model Evaluation
 
 The model performance was evaluated using:
 
@@ -146,7 +146,7 @@ The model successfully captures:
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
 1. Clone the repository
 2. Install the required libraries from `requirements.txt`
@@ -156,7 +156,7 @@ The model successfully captures:
 
 ---
 
-## Key Findings
+## 📌 Key Findings
 
 - Noise complaints peak during summer months  
 - Late-night hours show the highest activity  
@@ -166,7 +166,7 @@ The model successfully captures:
 
 ---
 
-## Forecast Insights
+## 🔮 Forecast Insights
 
 - Future complaint patterns follow strong seasonal trends  
 - Weekly cycles remain consistent  
@@ -175,7 +175,7 @@ The model successfully captures:
 
 ---
 
-## Business Impact
+## 💼 Business Impact
 
 - Helps city authorities predict high-noise periods  
 - Supports better resource allocation for complaint handling  
@@ -203,7 +203,7 @@ Compares actual complaint counts with forecasting approaches to evaluate how wel
 
 ---
 
-## Portfolio Value
+## 🎓 Portfolio Value
 
 This project demonstrates:
 
@@ -215,7 +215,7 @@ This project demonstrates:
 
 ---
 
-## Author
+## 👤 Author
 
 **Dev Patel**  
 Master’s Student – Data Analytics Engineering  
