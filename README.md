@@ -156,7 +156,17 @@ Compares actual complaint counts with forecasting approaches to evaluate how wel
 
 ![Time Series Model Forecast vs Actual](results/time_series_model_forecast_vs_actual.png)
 
+---
 
+## How to Run
+
+1. Clone the repository
+2. Install the required libraries from `requirements.txt`
+3. Open the notebook in Jupyter Notebook or Google Colab
+4. Update the dataset path if using the merged dataset from Google Drive
+5. Run the notebook cells in sequence to reproduce the analysis and forecasting workflow
+
+---
 
 ## Key Findings
 
