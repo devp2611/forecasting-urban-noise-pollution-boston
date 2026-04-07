@@ -1,5 +1,4 @@
 # Forecasting Urban Noise Pollution in Boston Using Time Series Analysis
-> 📊 Time Series Forecasting | Urban Analytics | Real-World Data Project
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Time Series](https://img.shields.io/badge/Time%20Series-SARIMA-green)
@@ -7,7 +6,8 @@
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-
+ 📊 Time Series Forecasting | Urban Analytics | Real-World Data Project
+ 
 ---
 
 ## 📌 Project Overview
