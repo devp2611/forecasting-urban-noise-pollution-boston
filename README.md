@@ -1,12 +1,28 @@
 # Forecasting Urban Noise Pollution in Boston Using Time Series Analysis
 
-This project analyzes and forecasts urban noise complaint patterns in Boston using historical 311 service request data. The goal is to identify temporal and neighborhood-level noise trends, perform exploratory data analysis, and build a time series forecasting model that can help anticipate future noise complaint activity.
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Time Series](https://img.shields.io/badge/Time%20Series-SARIMA-green)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-orange)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+📊 A complete time series forecasting project analyzing urban noise patterns in Boston using SARIMA and real-world data.
 
 ---
 
 ## Project Overview
 
 Urban noise pollution is a major quality-of-life issue in large cities. In this project, Boston 311 noise complaint data was studied to understand how complaints vary across time, weekdays, seasons, and neighborhoods. After cleaning and transforming the data, time series modeling was performed to forecast future complaint patterns.
+
+---
+
+## Key Highlights
+
+- End-to-end time series analysis using real-world Boston 311 data  
+- Identified strong seasonal and weekly noise patterns  
+- Built SARIMA model for forecasting urban noise complaints  
+- Compared predictions with actual values for validation  
+- Delivered actionable insights for urban planning  
 
 ---
 
@@ -156,6 +172,15 @@ The model successfully captures:
 - Weekly cycles remain consistent  
 - Forecasting helps identify high-risk noise periods  
 - Useful for urban planning and enforcement strategies  
+
+---
+
+## Business Impact
+
+- Helps city authorities predict high-noise periods  
+- Supports better resource allocation for complaint handling  
+- Enables proactive noise control strategies  
+- Improves urban livability through data-driven insights  
 
 ---
 
