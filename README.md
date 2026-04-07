@@ -137,10 +137,6 @@ forecasting-urban-noise-pollution-boston/
 ```
 ---
 
-
----
-
-```markdown
 ## Project Visuals
 
 ### Daily Noise Trend with Rolling Average
