@@ -1,4 +1,5 @@
 # Forecasting Urban Noise Pollution in Boston Using Time Series Analysis
+> 📊 Time Series Forecasting | Urban Analytics | Real-World Data Project
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Time Series](https://img.shields.io/badge/Time%20Series-SARIMA-green)
@@ -6,7 +7,6 @@
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-📊 A complete time series forecasting project analyzing urban noise patterns in Boston using SARIMA and real-world data.
 
 ---
 
@@ -125,7 +125,7 @@ The analysis reveals strong patterns in urban noise behavior:
 
 - Chronological train-test split (last 90 days as test set)  
 - Model used: **SARIMA (Seasonal ARIMA)**  
-- Configuration: SARIMA(1,1,1)(1,1,1,7)  
+- Configuration: **SARIMA(1,1,1)(1,1,1,7)**  
 - Captures both trend and weekly seasonality  
 
 ---
@@ -185,6 +185,7 @@ The model successfully captures:
 ---
 
 ## Project Visuals
+These visualizations highlight trend patterns, behavioral insights, and model performance.
 
 ### Daily Noise Trend with Rolling Average
 Shows long-term complaint fluctuations, recurring seasonal behavior, and rolling trends over time.
