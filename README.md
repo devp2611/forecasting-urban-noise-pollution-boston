@@ -29,17 +29,6 @@ The project combines:
 
 ---
 
-## Portfolio Value
-
-This project demonstrates:
-
-- Real-world data analysis using city datasets  
-- Strong understanding of time series modeling  
-- Ability to extract insights from complex data  
-- Practical forecasting implementation  
-- Clean project structuring and documentation
-
----
 
 ## Dataset Note
 
@@ -47,7 +36,8 @@ The project uses Boston 311 noise complaint data collected over multiple years.
 
 Due to file size limitations, the merged output dataset used in the modeling stage is **not stored in this GitHub repository**. The large merged dataset has been uploaded separately to Google Drive.
 
-**Merged Output Dataset (Google Drive):**(https://drive.google.com/file/d/1takOJp3ha_M8LT5M6wK0DCIrxn1uBU5T/view?usp=sharing)
+**Merged Output Dataset (Google Drive):**  
+[View Dataset](https://drive.google.com/file/d/1takOJp3ha_M8LT5M6wK0DCIrxn1uBU5T/view?usp=sharing)
 
 ---
 
@@ -137,24 +127,6 @@ The model successfully captures:
 - Long-term trends  
 - Short-term fluctuations  
  
----
-
-## Project Visuals
-
-### Daily Noise Trend with Rolling Average
-Shows long-term complaint fluctuations, recurring seasonal behavior, and rolling trends over time.
-
-![Daily Noise Trend with Rolling Average](results/daily_noise_trend_with_rolling_average.png)
-
-### Weekday vs Weekend Noise Analysis
-Highlights how complaint activity changes across the week and supports the finding that weekends tend to have higher noise-related activity.
-
-![Weekday vs Weekend Noise Analysis](results/weekday_vs_weekend_noise_analysis.png)
-
-### Time Series Model Forecast vs Actual
-Compares actual complaint counts with forecasting approaches to evaluate how well the models capture temporal patterns.
-
-![Time Series Model Forecast vs Actual](results/time_series_model_forecast_vs_actual.png)
 
 ---
 
@@ -186,3 +158,42 @@ Compares actual complaint counts with forecasting approaches to evaluate how wel
 - Useful for urban planning and enforcement strategies  
 
 ---
+
+## Project Visuals
+
+### Daily Noise Trend with Rolling Average
+Shows long-term complaint fluctuations, recurring seasonal behavior, and rolling trends over time.
+
+![Daily Noise Trend with Rolling Average](results/daily_noise_trend_with_rolling_average.png)
+
+### Weekday vs Weekend Noise Analysis
+Highlights how complaint activity changes across the week and supports the finding that weekends tend to have higher noise-related activity.
+
+![Weekday vs Weekend Noise Analysis](results/weekday_vs_weekend_noise_analysis.png)
+
+### Time Series Model Forecast vs Actual
+Compares actual complaint counts with forecasting approaches to evaluate how well the models capture temporal patterns.
+
+![Time Series Model Forecast vs Actual](results/time_series_model_forecast_vs_actual.png)
+
+---
+
+## Portfolio Value
+
+This project demonstrates:
+
+- Real-world data analysis using city datasets  
+- Strong understanding of time series modeling  
+- Ability to extract insights from complex data  
+- Practical forecasting implementation  
+- Clean project structuring and documentation
+
+---
+
+## Author
+
+**Dev Patel**  
+Master’s Student – Data Analytics Engineering  
+Northeastern University  
+
+GitHub: https://github.com/devp2611
