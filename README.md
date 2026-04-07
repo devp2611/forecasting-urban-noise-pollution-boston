@@ -137,6 +137,29 @@ forecasting-urban-noise-pollution-boston/
 ```
 ---
 
+
+---
+
+```markdown
+## Project Visuals
+
+### Daily Noise Trend with Rolling Average
+Shows long-term complaint fluctuations, recurring seasonal behavior, and rolling trends over time.
+
+![Daily Noise Trend with Rolling Average](results/daily_noise_trend_with_rolling_average.png)
+
+### Weekday vs Weekend Noise Analysis
+Highlights how complaint activity changes across the week and supports the finding that weekends tend to have higher noise-related activity.
+
+![Weekday vs Weekend Noise Analysis](results/weekday_vs_weekend_noise_analysis.png)
+
+### Time Series Model Forecast vs Actual
+Compares actual complaint counts with forecasting approaches to evaluate how well the models capture temporal patterns.
+
+![Time Series Model Forecast vs Actual](results/time_series_model_forecast_vs_actual.png)
+
+
+
 ## Key Findings
 
 - Noise complaints peak during summer months  
